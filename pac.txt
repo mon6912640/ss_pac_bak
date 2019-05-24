@@ -8,6 +8,7 @@ var proxy = "__PROXY__";
 var userrules = [];
 var rules = [
   "|http://85.17.73.31/",
+  "||nrenvip.com",
   "||agnesb.fr",
   "||141jav.com",
   "||justmysocks.net",
