@@ -9,6 +9,7 @@ var userrules = [];
 var rules = [
   "|http://85.17.73.31/",
   "||agnesb.fr",
+  "||141jav.com",
   "||justmysocks.net",
   "||github.com",
   "||akiba-web.com",
