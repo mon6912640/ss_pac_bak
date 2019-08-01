@@ -10,6 +10,7 @@ var rules = [
   "|http://85.17.73.31/",
   "||nrenvip.com",
   "||qt.io",
+  "||www.docker.com",
   "||raw.githubusercontent.com",
   "||agnesb.fr",
   "||141jav.com",
