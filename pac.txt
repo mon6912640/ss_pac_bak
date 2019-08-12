@@ -9,6 +9,7 @@ var userrules = [];
 var rules = [
   "|http://85.17.73.31/",
   "||nrenvip.com",
+  "||www.jetbrains.com",
   "||qt.io",
   "||docker.com",
   "||raw.githubusercontent.com",
