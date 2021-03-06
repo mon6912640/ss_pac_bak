@@ -1,7 +1,3 @@
-gui-config.json
-Shadowsocks.exe
-Shadowsocks.exe0
-Shadowsocks.exe.hash
-statistics-config.json
-user-rule.txt
-ss_win_temp
+*
+!pac.txt
+!.gitignore
