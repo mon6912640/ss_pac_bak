@@ -5,6 +5,8 @@ var proxy = "__PROXY__";
 
 var rules = [
   "|http://85.17.73.31/",
+  "||.mod.red",
+  "||.origin.com",
   "||tiangolo.com",
   "||nrenvip.com",
   "||github.com",
