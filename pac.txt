@@ -5,7 +5,10 @@ var proxy = "__PROXY__";
 
 var rules = [
   "|http://85.17.73.31/",
+  "||.translate.goog",
   "||.mod.red",
+  "||.cloudflare.com",
+  "||adoptium.net",
   "||.origin.com",
   "||.evernote.com",
   "||http://www.mudvod.tv",
@@ -974,6 +977,7 @@ var rules = [
   "||nytstyle.com",
   ".steamcommunity.com",
   "||steamcommunity.com",
+  "||http://store.steampowered.com",
   "|http://store.steampowered.com/app/333600",
   "||t.me",
   "||updates.tdesktop.com",
